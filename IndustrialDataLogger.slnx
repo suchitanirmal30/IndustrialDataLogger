@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="IndustrialDataLogger/IndustrialDataLogger.csproj" Id="d71b10de-97b8-42c6-add9-8efcf76d7d17" />
+  <Project Path="ModbusSimulator/ModbusSimulator.csproj" Id="bda1a5fe-6d6b-45ff-a274-fb59e898cf31" />
+</Solution>
