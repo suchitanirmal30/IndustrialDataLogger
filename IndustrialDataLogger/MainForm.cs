@@ -31,6 +31,8 @@ namespace IndustrialDataLogger
         public MainForm()
         {
             InitializeComponent();
+            // Set application title and version
+            this.Text = "Industrial Data Logger - v1.0.1";
 
             mqtt = new MqttHelper();
 
